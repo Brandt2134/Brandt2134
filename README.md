@@ -16,7 +16,7 @@ Computer Engineering student at the University at Albany, focused on digital log
 - 🚗 [**Line-Following Robot**](https://github.com/Brandt2134/line-following-robot) — Arduino robot using photoresistor threshold logic to track a line
 
 ## Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/brandtshirley-98910a326)
+- 💼 [LinkedIn](www.linkedin.com/in/brandtshirley)
 - 📧 bshirley2134@gmail.com
 
 *Always open to conversations about hardware engineering, semiconductor manufacturing, and digital design — feel free to reach out!*
