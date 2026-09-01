@@ -9,7 +9,7 @@ Computer Engineering student at the University at Albany, focused on digital log
 - **Other:** Embedded systems (Arduino), circuit design & debugging, hardware troubleshooting
 
 ## Featured projects
-- 🎮 [**Jump Processor**](https://github.com/Brandt2134/jump-processor) — VHDL digital processor simulating a jump mechanic, built with an HLSM → FSM → datapath design flow
+- 🎮 [**Jump Processor**](https://github.com/Brandt2134/jump_processor) — VHDL digital processor simulating a jump mechanic, built with an HLSM → FSM → datapath design flow
 - 🔴 [**Connect 4 AI Bot**](https://github.com/Brandt2134/connect4-ai-bot) — Two Connect 4 bots in C, with a custom heuristic move-evaluation function
 - 🤖 [**Dual-Chamber Robot Status Monitor**](https://github.com/Brandt2134/chamber-status-monitor) — Combinational logic circuit built on real TTL hardware, designed with a partner
 - 🔊 [**Audio Low-Pass Filter**](https://github.com/Brandt2134/audio-lowpass-filter) — Analog noise-filtering circuit, validated with Scopy and MATLAB
